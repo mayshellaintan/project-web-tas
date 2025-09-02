@@ -1,0 +1,28 @@
+.navbar-custom {
+    background-color: #8F5A5A; /* coklat custom */
+}
+  .navbar-custom .nav-link,
+  .navbar-custom .navbar-brand {
+    color: white;
+}
+  .navbar-custom .nav-link:hover {
+    color: #ffd700; /* kuning emas */
+}  
+  
+.beranda {
+    width: 100%;
+    height: 90%;
+}
+
+.text-center {
+  font-size: 45px;
+  color: black;
+  text-align: center;
+}
+
+.card {
+  text-align: center;
+  top: 60px;
+  left: 20px;
+}
+
