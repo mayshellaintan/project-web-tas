@@ -36,6 +36,7 @@
   width: 100%;
   height: auto;
   margin-top: 10%;
+
  
 }
 
@@ -49,4 +50,77 @@
 .beranda img{
   width: 100%;
   height: auto;
+}
+
+.footer {
+  background-color: #8E5B5B; /* Warna latar belakang footer */
+  color: white;
+  padding: 40px 20px;
+  font-family: Arial, sans-serif;
+  margin-top: 10%;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.footer-left {
+  max-width: 60%;
+}
+
+.footer-left h4 {
+  margin-bottom: 10px;
+}
+
+.footer-left p {
+  margin: 5px 0;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.footer-hours p {
+  font-size: 13px;
+}
+
+.footer-right {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.footer-contacts {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-contacts li {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  gap: 8px;
+}
+
+.footer-contacts img {
+  width: 16px;
+  height: 16px;
+}
+
+.col:hover {
+transform: translateY(-10px);
+ box-shadow: 0 5px 16px rgba(255, 254, 254, 0);
+}
+
+.detail{
+  display: flex;
+  width: 30%; 
+}
+
+.jdl{
+  
 }
