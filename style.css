@@ -110,7 +110,7 @@
   width: 16px;
   height: 16px;
 }
-
+ 
 .col:hover {
 transform: translateY(-10px);
  box-shadow: 0 5px 16px rgba(255, 254, 254, 0);
