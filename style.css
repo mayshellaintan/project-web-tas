@@ -133,8 +133,8 @@ transform: translateY(-10px);
   display: flex;
 }
 
-.kulit2 {
-  display: 100px;
-  width: 80px;
-  margin-left: 200px;
+.katatas{
+  max-width: 60%;
+  margin-top: 5%;
+  margin-left: 5%;
 }
