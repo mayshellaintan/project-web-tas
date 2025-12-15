@@ -156,5 +156,5 @@ $data = mysqli_fetch_assoc(mysqli_query($conn, "SELECT * FROM kategori WHERE k_i
 </div>
 <?php endif; ?>
 
-</body>
+</body>    
 </html>
