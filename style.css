@@ -121,9 +121,26 @@ transform: translateY(-10px);
   width: 30%; 
 }
 
-.jdl{
-  margin-left: 90px;
-  
+.info-section{
+  background-color: #f8f9fa;
+}
+
+.info.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.infoimage img {
+  width: 100%;
+  max-width: 300%;
+  height: auto;
+  border-radius: 6px;
+}
+
+.infotext {
+  max-width: 500px;
+  text-align: left;
 }
 
 .kulit1 {
